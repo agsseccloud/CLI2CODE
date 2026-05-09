@@ -146,8 +146,8 @@ rich>=13.0.0
 ### 1. Clone or download
 
 ```bash
-git clone https://github.com/yourname/cli-teacher.git
-cd cli-teacher
+git clone https://github.com/yourname/CLI2CODE.git
+cd CLI2CODE
 ```
 
 Or simply download `CLI2CODE.py` directly.
